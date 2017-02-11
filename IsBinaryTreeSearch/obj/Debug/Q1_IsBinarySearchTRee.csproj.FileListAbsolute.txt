@@ -1,0 +1,6 @@
+D:\Documents\Developement\Microsoft.NET\Projet .net\amazon\AmazonInterview\Q1\bin\Debug\Q1.exe.config
+D:\Documents\Developement\Microsoft.NET\Projet .net\amazon\AmazonInterview\Q1\bin\Debug\Q1.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\amazon\AmazonInterview\Q1\bin\Debug\Q1.pdb
+D:\Documents\Developement\Microsoft.NET\Projet .net\amazon\AmazonInterview\Q1\obj\Debug\Q1_IsBinarySearchTRee.csprojResolveAssemblyReference.cache
+D:\Documents\Developement\Microsoft.NET\Projet .net\amazon\AmazonInterview\Q1\obj\Debug\Q1.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\amazon\AmazonInterview\Q1\obj\Debug\Q1.pdb

@@ -1,0 +1,5 @@
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\BinaryTreeMirror\bin\Debug\Q28_BinaryTreeMirror.exe.config
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\BinaryTreeMirror\bin\Debug\Q28_BinaryTreeMirror.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\BinaryTreeMirror\bin\Debug\Q28_BinaryTreeMirror.pdb
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\BinaryTreeMirror\obj\Debug\Q28_BinaryTreeMirror.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\BinaryTreeMirror\obj\Debug\Q28_BinaryTreeMirror.pdb

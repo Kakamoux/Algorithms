@@ -1,0 +1,2 @@
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithmie\Q2_Merge2SortedList\bin\Debug\Q2_Merge2SortedList.exe.config
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\Q2_Merge2SortedList\bin\Debug\Q2_Merge2SortedList.exe.config

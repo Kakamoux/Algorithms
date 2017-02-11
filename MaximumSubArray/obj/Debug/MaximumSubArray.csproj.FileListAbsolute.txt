@@ -1,0 +1,5 @@
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\MaximumSubArray\bin\Debug\Q20_MaximumSubArray.exe.config
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\MaximumSubArray\bin\Debug\Q20_MaximumSubArray.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\MaximumSubArray\bin\Debug\Q20_MaximumSubArray.pdb
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\MaximumSubArray\obj\Debug\Q20_MaximumSubArray.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\MaximumSubArray\obj\Debug\Q20_MaximumSubArray.pdb

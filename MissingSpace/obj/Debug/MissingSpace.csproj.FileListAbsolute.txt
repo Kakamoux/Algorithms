@@ -1,0 +1,5 @@
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\MissingSpace\bin\Debug\Q16_MissingSpace.exe.config
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\MissingSpace\bin\Debug\Q16_MissingSpace.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\MissingSpace\bin\Debug\Q16_MissingSpace.pdb
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\MissingSpace\obj\Debug\Q16_MissingSpace.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\MissingSpace\obj\Debug\Q16_MissingSpace.pdb

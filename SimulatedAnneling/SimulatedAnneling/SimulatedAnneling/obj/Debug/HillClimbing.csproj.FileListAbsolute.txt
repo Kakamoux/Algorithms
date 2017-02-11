@@ -1,0 +1,6 @@
+D:\Documents\Data\Projet .net\Algorithmie\HillClimbing\HillClimbing\HillClimbing\bin\Debug\HillClimbing.exe.config
+D:\Documents\Data\Projet .net\Algorithmie\HillClimbing\HillClimbing\HillClimbing\bin\Debug\HillClimbing.exe
+D:\Documents\Data\Projet .net\Algorithmie\HillClimbing\HillClimbing\HillClimbing\bin\Debug\HillClimbing.pdb
+D:\Documents\Data\Projet .net\Algorithmie\HillClimbing\HillClimbing\HillClimbing\obj\Debug\HillClimbing.csprojResolveAssemblyReference.cache
+D:\Documents\Data\Projet .net\Algorithmie\HillClimbing\HillClimbing\HillClimbing\obj\Debug\HillClimbing.exe
+D:\Documents\Data\Projet .net\Algorithmie\HillClimbing\HillClimbing\HillClimbing\obj\Debug\HillClimbing.pdb

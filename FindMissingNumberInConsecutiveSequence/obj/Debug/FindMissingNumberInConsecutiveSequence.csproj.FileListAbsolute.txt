@@ -1,0 +1,5 @@
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\FindMissingNumberInConsecutiveSequence\bin\Debug\Q14_FindMissingNumberInConsecutiveSequence.exe.config
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\FindMissingNumberInConsecutiveSequence\bin\Debug\Q14_FindMissingNumberInConsecutiveSequence.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\FindMissingNumberInConsecutiveSequence\bin\Debug\Q14_FindMissingNumberInConsecutiveSequence.pdb
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\FindMissingNumberInConsecutiveSequence\obj\Debug\Q14_FindMissingNumberInConsecutiveSequence.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\FindMissingNumberInConsecutiveSequence\obj\Debug\Q14_FindMissingNumberInConsecutiveSequence.pdb

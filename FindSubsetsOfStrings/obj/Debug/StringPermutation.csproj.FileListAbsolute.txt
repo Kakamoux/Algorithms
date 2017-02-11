@@ -1,0 +1,5 @@
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\FindSubsetsOfStrings\bin\Debug\Q7_FindSubsetsOfStrings.exe.config
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\FindSubsetsOfStrings\bin\Debug\Q7_FindSubsetsOfStrings.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\FindSubsetsOfStrings\bin\Debug\Q7_FindSubsetsOfStrings.pdb
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\FindSubsetsOfStrings\obj\Debug\Q7_FindSubsetsOfStrings.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\FindSubsetsOfStrings\obj\Debug\Q7_FindSubsetsOfStrings.pdb

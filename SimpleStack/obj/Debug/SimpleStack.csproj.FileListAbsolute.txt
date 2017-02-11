@@ -1,0 +1,5 @@
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\SimpleStack\bin\Debug\Q4_SimpleStack.exe.config
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\SimpleStack\bin\Debug\Q4_SimpleStack.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\SimpleStack\bin\Debug\Q4_SimpleStack.pdb
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\SimpleStack\obj\Debug\Q4_SimpleStack.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\SimpleStack\obj\Debug\Q4_SimpleStack.pdb

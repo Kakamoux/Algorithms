@@ -1,0 +1,6 @@
+﻿<Window x:Class="MinimaxTicTacToeAlphaBeta.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow"  Height="388" Width="410">
+    <Grid x:Name="Grid"/>
+</Window>

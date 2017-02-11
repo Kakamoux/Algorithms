@@ -1,0 +1,5 @@
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\QuickSort\bin\Debug\Q13_QuickSort.exe.config
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\QuickSort\bin\Debug\Q13_QuickSort.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\QuickSort\bin\Debug\Q13_QuickSort.pdb
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\QuickSort\obj\Debug\Q13_QuickSort.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\Algorithm\QuickSort\obj\Debug\Q13_QuickSort.pdb

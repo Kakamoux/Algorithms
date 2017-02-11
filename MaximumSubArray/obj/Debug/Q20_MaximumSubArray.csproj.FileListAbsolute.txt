@@ -1,0 +1,6 @@
+D:\Documents\Developement\Microsoft.NET\Projet .net\amazon\AmazonInterview\Q20_MaximumSubArray\bin\Debug\Q20_MaximumSubArray.exe.config
+D:\Documents\Developement\Microsoft.NET\Projet .net\amazon\AmazonInterview\Q20_MaximumSubArray\bin\Debug\Q20_MaximumSubArray.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\amazon\AmazonInterview\Q20_MaximumSubArray\bin\Debug\Q20_MaximumSubArray.pdb
+D:\Documents\Developement\Microsoft.NET\Projet .net\amazon\AmazonInterview\Q20_MaximumSubArray\obj\Debug\Q20_MaximumSubArray.csprojResolveAssemblyReference.cache
+D:\Documents\Developement\Microsoft.NET\Projet .net\amazon\AmazonInterview\Q20_MaximumSubArray\obj\Debug\Q20_MaximumSubArray.exe
+D:\Documents\Developement\Microsoft.NET\Projet .net\amazon\AmazonInterview\Q20_MaximumSubArray\obj\Debug\Q20_MaximumSubArray.pdb
